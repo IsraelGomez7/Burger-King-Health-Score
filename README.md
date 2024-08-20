@@ -1,7 +1,7 @@
 <h1 align="center">📊 Análisis Nutricional del Menú de Burger King 🍔</h1>
 
 <p align="center">
-  <img src="images/BKLOGO.png"  width="500"/>
+  <img src="Images/BKLOGO.png"  width="500"/>
 </p>
 
 ## Descripción
@@ -13,8 +13,8 @@ Este proyecto analiza la información nutricional de los principales ítems del 
 
 ## Capturas de Pantalla
 <p align="center">
-   <img src="images/1.png" width="500"/>
+   <img src="Images/1.png" width="500"/>
 </p>
 <p align="center">
-   <img src="images/2.png" width="500"/>
+   <img src="Images/2.png" width="500"/>
 </p>
