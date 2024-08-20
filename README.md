@@ -10,6 +10,7 @@ Este proyecto analiza la información nutricional de los principales ítems del 
 ## Resultados Clave
 
 - Los ítems más saludables incluyen opciones como...
+  
 -68                   Ketchup (Packet)      
 -70   Strawberry or Grape Jam (packet)      
 -72      Barbecue Dipping Sauce (1 oz)      
@@ -23,7 +24,7 @@ Este proyecto analiza la información nutricional de los principales ítems del 
 
   
 - Los ítems menos saludables incluyen...
-- Ítems menos saludables:
+
                                     
 -6   Triple Whopper® Sandwich with Cheese     
 -9            Cheddar Bacon King Sandwich     
